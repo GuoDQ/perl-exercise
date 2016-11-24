@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 use strict;
-use warings;
+use warnings;
 my $DNA = 'ACGGGAGGACGGGAAAATTACTACGGCATTAGC';
 print $DNA;
 exit;
